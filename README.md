@@ -31,6 +31,26 @@ Traditional recovery mechanisms either **blindly retry** (causing high gateway f
 
 ---
 
+## 🖼️ Screenshots
+
+### 📊 Operator Dashboard — Live KPIs, 3D Neural Network & Failure Diagnosis
+
+![RecoverAI Operator Dashboard showing live KPI cards, 3D neural network graph, transaction velocity chart, and real-time failure diagnosis meters](assets/screenshots/dashboard.jpg)
+
+### ⚡ Payment Gateway Simulator & AI Risk Engine
+
+![RecoverAI Simulator showing simulation parameters form on the left and real-time AI Agent reasoning panel with risk score meter and recovery badge on the right](assets/screenshots/simulator.jpg)
+
+### 📈 Financial Analytics, Transaction Table & Risk Distribution
+
+![RecoverAI Analytics showing 30-day recovery velocity chart, risk donut chart, live transactions table, and merchant leaderboard](assets/screenshots/analytics.jpg)
+
+### 📱 Phone SMS OTP Verification — Zero Profile Before Verify
+
+![RecoverAI login screen showing the Register tab Step 2 with 6-digit phone OTP entry boxes and Verify & Create Account button](assets/screenshots/login_otp.jpg)
+
+---
+
 ## ✨ Key Highlights
 
 * 🤖 **Autonomous AI Recovery Engine** — Intelligently assesses failed transactions in real time and recommends the optimal retry path (Gateway switch, smart backoff, fallback method).
